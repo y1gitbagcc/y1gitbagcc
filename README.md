@@ -3,7 +3,7 @@
 **Embedded Systems & UAV Engineer**
 
 Swarm UAV sistemleri ve embedded yazılım alanlarında çalışıyorum. Şu anda ROS2 + PX4 tabanlı çoklu İHA koordinasyonu üzerine yoğunlaşıyorum.
-Ayrıca RF ve Aİ konularına ilgi duyuyorum. Belki bu ileride paylaşacağım repo için bir ipucudur :)
+Ayrıca RF ve AI konularına ilgi duyuyorum. Belki bu ileride paylaşacağım repo için bir ipucudur :)
 
 ---
 
