@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hüseyin Yiğit Bağcı
 
-<!--
-**y1gitbagcc/y1gitbagcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Embedded Systems & UAV Engineer**
 
-Here are some ideas to get you started:
+Swarm UAV sistemleri, embedded yazılım ve sinyal işleme alanlarında çalışıyorum. Şu anda ROS2 + PX4 tabanlı çoklu İHA koordinasyonu üzerine yoğunlaşıyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Odak Alanları
+
+| Alan | Detay |
+|------|-------|
+| **Swarm UAV** | ROS2, PX4, çoklu ajan koordinasyonu, otonom uçuş |
+| **Embedded** | Bare-metal & RTOS, STM32, sensör entegrasyonu |
+| **RF / DSP / SDR** | Sinyal işleme, software-defined radio, RF haberleşme |
+
+---
+
+## 🛠 Teknolojiler
+
+**Diller**
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
+**Araçlar & Platformlar**
+
+![ROS2](https://img.shields.io/badge/ROS2-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)
+![PX4](https://img.shields.io/badge/PX4-orange?style=flat&logo=drone&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## 📌 Öne Çıkan Projeler
+
+<!-- Kendi repolarınla değiştir -->
+> 🚁 **[Swarm UAV Simulation](#)** — ROS2 + PX4 SITL ile çoklu İHA sürü simülasyonu  
+> ⚙️ **[Embedded Sensor Driver](#)** — STM32 tabanlı sensör sürücü kütüphanesi  
+> 📡 **[SDR Signal Processing](#)** — GNU Radio / SDR ile sinyal analiz araçları  
+
+*Link ve açıklamaları kendi repolarına göre güncelle.*
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=y1gitbagcc&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&column=4)
+
+---
+
+## 📫 İletişim
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Hüseyin%20Yiğit%20Bağcı)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hy.bagci@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/yigitbagcc)
