@@ -1,31 +1,31 @@
 # Hüseyin Yiğit Bağcı
-
 **Embedded Systems & UAV Engineer**
 
-Swarm UAV sistemleri ve embedded yazılım alanlarında çalışıyorum. Şu anda ROS2 + PX4 tabanlı çoklu İHA koordinasyonu üzerine yoğunlaşıyorum.
-Ayrıca RF ve AI konularına ilgi duyuyorum. Belki bu ileride paylaşacağım repo için bir ipucudur :)
+I work in the fields of Swarm UAV systems and embedded software. Currently focusing on multi-UAV coordination based on ROS2 + PX4.
+
+I'm also interested in RF and AI topics. Maybe that's a hint for a repo I'll share in the future :)
 
 ---
 
-## 🔬 Odak Alanları
+## 🔬 Focus Areas
 
-| Alan | Detay |
-|------|-------|
+| Area | Details |
+|------|---------|
 | **Swarm UAV** | ROS2, PX4, multi-agent coordination |
-| **Embedded** | Bare-metal & RTOS, STM32, sensör entegrasyonu |
+| **Embedded** | Bare-metal & RTOS, STM32, sensor integration |
 
 ---
 
-## 🛠 Teknolojiler
+## 🛠 Technologies
 
-**Diller**
+**Languages**
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
-**Araçlar & Platformlar**
+**Tools & Platforms**
 
 ![ROS2](https://img.shields.io/badge/ROS2-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)
 ![PX4](https://img.shields.io/badge/PX4-000000?style=flat&logoColor=white)
@@ -35,10 +35,10 @@ Ayrıca RF ve AI konularına ilgi duyuyorum. Belki bu ileride paylaşacağım re
 
 ---
 
-## 📌 Öne Çıkan Projeler
+## 📌 Featured Projects
 
-<!-- Kendi repolarınla değiştir -->
-> 🚁 **[Swarm UAV Formation](https://github.com/y1gitbagcc/px4-ros2-swarm-formation)** — ROS2 + PX4 SITL ile çoklu İHA sürü simülasyonu  
+<!-- Replace with your own repos -->
+> 🚁 **[Swarm UAV Formation](https://github.com/y1gitbagcc/px4-ros2-swarm-formation)** — Multi-UAV swarm simulation with ROS2 + PX4 SITL
 
 ---
 
@@ -48,7 +48,7 @@ Ayrıca RF ve AI konularına ilgi duyuyorum. Belki bu ileride paylaşacağım re
 
 ---
 
-## 📫 İletişim
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%BCseyin-yi%C4%9Fit-ba%C4%9Fc%C4%B1-687180221/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hy.bagci@gmail.com)
