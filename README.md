@@ -42,12 +42,6 @@ I'm also interested in RF and AI topics. Maybe that's a hint for a repo I'll sha
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=y1gitbagcc&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&column=4)
-
----
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%BCseyin-yi%C4%9Fit-ba%C4%9Fc%C4%B1-687180221/)
