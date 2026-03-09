@@ -27,7 +27,7 @@ Swarm UAV sistemleri ve embedded yazılım alanlarında çalışıyorum. Şu and
 **Araçlar & Platformlar**
 
 ![ROS2](https://img.shields.io/badge/ROS2-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)
-![PX4](https://img.shields.io/badge/PX4_Autopilot-F7931E?style=flat&logoColor=white)
+![PX4](https://img.shields.io/badge/PX4-000000?style=flat&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
