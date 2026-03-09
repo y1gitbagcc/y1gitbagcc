@@ -2,7 +2,7 @@
 
 **Embedded Systems & UAV Engineer**
 
-Swarm UAV sistemleri, embedded yazılım ve sinyal işleme alanlarında çalışıyorum. Şu anda ROS2 + PX4 tabanlı çoklu İHA koordinasyonu üzerine yoğunlaşıyorum.
+Swarm UAV sistemleri ve embedded yazılım alanlarında çalışıyorum. Şu anda ROS2 + PX4 tabanlı çoklu İHA koordinasyonu üzerine yoğunlaşıyorum.
 
 ---
 
@@ -12,7 +12,6 @@ Swarm UAV sistemleri, embedded yazılım ve sinyal işleme alanlarında çalış
 |------|-------|
 | **Swarm UAV** | ROS2, PX4, çoklu ajan koordinasyonu, otonom uçuş |
 | **Embedded** | Bare-metal & RTOS, STM32, sensör entegrasyonu |
-| **RF / DSP / SDR** | Sinyal işleme, software-defined radio, RF haberleşme |
 
 ---
 
@@ -21,6 +20,7 @@ Swarm UAV sistemleri, embedded yazılım ve sinyal işleme alanlarında çalış
 **Diller**
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
@@ -39,7 +39,6 @@ Swarm UAV sistemleri, embedded yazılım ve sinyal işleme alanlarında çalış
 <!-- Kendi repolarınla değiştir -->
 > 🚁 **[Swarm UAV Simulation](#)** — ROS2 + PX4 SITL ile çoklu İHA sürü simülasyonu  
 > ⚙️ **[Embedded Sensor Driver](#)** — STM32 tabanlı sensör sürücü kütüphanesi  
-> 📡 **[SDR Signal Processing](#)** — GNU Radio / SDR ile sinyal analiz araçları  
 
 *Link ve açıklamaları kendi repolarına göre güncelle.*
 
