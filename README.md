@@ -52,6 +52,6 @@ Swarm UAV sistemleri ve embedded yazılım alanlarında çalışıyorum. Şu and
 
 ## 📫 İletişim
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Hüseyin%20Yiğit%20Bağcı)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%BCseyin-yi%C4%9Fit-ba%C4%9Fc%C4%B1-687180221/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hy.bagci@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/yigitbagcc)
