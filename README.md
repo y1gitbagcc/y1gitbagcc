@@ -11,7 +11,7 @@ Ayrıca RF ve AI konularına ilgi duyuyorum. Belki bu ileride paylaşacağım re
 
 | Alan | Detay |
 |------|-------|
-| **Swarm UAV** | ROS2, PX4, çoklu ajan koordinasyonu, otonom uçuş |
+| **Swarm UAV** | ROS2, PX4, multi-agent coordination |
 | **Embedded** | Bare-metal & RTOS, STM32, sensör entegrasyonu |
 
 ---
