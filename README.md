@@ -1,20 +1,23 @@
 # Hüseyin Yiğit Bağcı
+
 **Embedded Systems & UAV Engineer**
 
 I work in the fields of Swarm UAV systems and embedded software. Currently focusing on multi-UAV coordination based on ROS2 + PX4.
 
-I'm also interested in RF and AI topics. Maybe that's a hint for a repo I'll share in the future :)
+I’m a 3rd year student at **Konya Technical University**, conducting my projects under [**RACLAB**](https://raclab.org/) — Robotics, Autonomous and Control Systems Laboratory.
 
----
+I’m also interested in RF and AI topics. Maybe that’s a hint for a repo I’ll share in the future :)
+
+-----
 
 ## 🔬 Focus Areas
 
-| Area | Details |
-|------|---------|
-| **Swarm UAV** | ROS2, PX4, multi-agent coordination |
-| **Embedded** | Bare-metal & RTOS, STM32, sensor integration |
+|Area         |Details                                     |
+|-------------|--------------------------------------------|
+|**Swarm UAV**|ROS2, PX4, multi-agent coordination         |
+|**Embedded** |Bare-metal & RTOS, STM32, sensor integration|
 
----
+-----
 
 ## 🛠 Technologies
 
@@ -33,14 +36,15 @@ I'm also interested in RF and AI topics. Maybe that's a hint for a repo I'll sha
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
----
+-----
 
 ## 📌 Featured Projects
 
-<!-- Replace with your own repos -->
 > 🚁 **[Swarm UAV Formation](https://github.com/y1gitbagcc/px4-ros2-swarm-formation)** — Multi-UAV swarm simulation with ROS2 + PX4 SITL
+> 
+> *Developed under [RACLAB](https://raclab.org/) — Konya Technical University*
 
----
+-----
 
 ## 📫 Contact
 
